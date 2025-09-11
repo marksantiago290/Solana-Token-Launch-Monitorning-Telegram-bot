@@ -1,0 +1,13 @@
+apscheduler
+python-telegram-bot
+python-dotenv
+pymongo
+requests
+web3
+pandas
+aiohttp
+qrcode
+base58
+solana
+solders
+anchorpy
